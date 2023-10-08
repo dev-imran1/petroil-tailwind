@@ -25,7 +25,7 @@ tailwind.config = {
           'container': '1144px',
         },
         fontFamily: {
-          'popins': "Poppins', sans-serif",
+          'popins': "'Poppins', sans-serif",
         },
       }
     }
