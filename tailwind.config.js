@@ -18,8 +18,8 @@ tailwind.config = {
           '5px': '5px',
         },
         backgroundImage: {
-          'banner': "url('/img/hero-pattern.svg')",
-          'overlay': "rgba(0, 0, 0, 0.60)",
+          'banner': "url('./images/banner.jpg')",
+          'overlay': "linear-gradient(#000, #000)",
         },
         maxWidth: {
           'container': '1144px',
