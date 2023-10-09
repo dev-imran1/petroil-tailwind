@@ -22,6 +22,9 @@ tailwind.config = {
           'slider1': "url('./images/slider1.jpg')",
           'slider2': "url('./images/slider2.png')",
           'slider3': "url('./images/slider3.png')",
+          'logo1': "url('./images/company1.jpg')",
+          'logo2': "url('./images/company2.png')",
+          'logo3': "url('./images/company3.png')",
           'overlay': "linear-gradient(#000, #000)",
         },
         maxWidth: {
