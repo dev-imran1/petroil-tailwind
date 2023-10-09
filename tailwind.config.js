@@ -29,6 +29,7 @@ tailwind.config = {
         },
         fontFamily: {
           'popins': "'Poppins', sans-serif",
+          'roboto': "'Roboto', sans-serif",
         },
       }
     }
