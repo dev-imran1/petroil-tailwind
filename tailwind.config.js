@@ -12,7 +12,6 @@ tailwind.config = {
           'title-font':'36px',
           'sub-font':'24px',
           'small-font':'16px',
-          'pera-font':'16px',
         },
         spacing: {
           '5px': '5px',
@@ -28,7 +27,7 @@ tailwind.config = {
           'overlay': "linear-gradient(#000, #000)",
         },
         maxWidth: {
-          'container': '1144px',
+          'container': '1280px',
         },
         fontFamily: {
           'popins': "'Poppins', sans-serif",
